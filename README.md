@@ -1,5 +1,5 @@
 👋 Olá! Sou um profissional apaixonado por tecnologia e inovação, com sólida formação acadêmica e experiência prática em diversas áreas da engenharia de software.
-___________________________________________________________________________________________________________________________________________________________________
+____________________________________________________________________________________________________________________________________________________________________
 📚 Formação
 
 Pós-graduação em Engenharia de Software
@@ -13,7 +13,7 @@ ________________________________________________________________________________
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="Carol-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="max-width: 100%;">
 </a>
-
+_____________________________________________________________________________________________________________________________________________________________________
 
 
 
