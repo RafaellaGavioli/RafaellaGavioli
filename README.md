@@ -10,9 +10,7 @@ ________________________________________________________________________________
 <a href="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png">
     <img alt="Carol-Selenium" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" style="max-width: 100%;">
 </a>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img alt="Carol-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="max-width: 100%;">
-</a>
+
 
 ________________________________________________________________________________________________________________________
 
