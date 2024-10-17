@@ -8,7 +8,7 @@ Pós-graduação em Administração de Banco de Dados
 Graduação em Análise de Sistemas e Desenvolvimento
 ____________________________________________________________________________________________________________________________________________________________________
 <a href="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" alt="Selenium" height="30" width="30" style="display: inline-block; ">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" alt="Selenium" height="30" width="30" style="display: ">
 </a>
 <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="30" width="40" style="display: inline-block;">
