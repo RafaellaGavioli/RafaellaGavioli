@@ -7,12 +7,13 @@ Pós-graduação em Engenharia de Software
 Pós-graduação em Administração de Banco de Dados
 Graduação em Análise de Sistemas e Desenvolvimento
 ____________________________________________________________________________________________________________________________________________________________________
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png">
-    <img alt="Carol-Selenium" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" style="max-width: 100%;">
+<a href="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" alt="Selenium" height="30" width="30" style="display: inline-block; margin-right: 5px;">
 </a>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img alt="Carol-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="max-width: 100%;">
+<a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="30" width="40" style="display: inline-block;">
 </a>
+
 
 ________________________________________________________________________________________________________________________
 
