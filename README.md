@@ -1,16 +1,11 @@
-## Hi there 👋
+👋 Olá! Sou um profissional apaixonado por tecnologia e inovação, com sólida formação acadêmica e experiência prática em diversas áreas da engenharia de software.
+___________________________________________________________________________________________________________________________________________________________________
+📚 Formação
 
-<!--
-**RafaellaGavioli/RafaellaGavioli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Pós-graduação em Engenharia de Software
+Ênfase em Qualidade e Teste de Software
+Pós-graduação em Administração de Banco de Dados
+Graduação em Análise de Sistemas e Desenvolvimento
+____________________________________________________________________________________________________________________________________________________________________
+🚀 O que me motiva?
+Sempre busco aprender e me aprimorar nas melhores práticas de desenvolvimento de software, com foco em garantir que cada projeto entregue seja de alta qualidade e atenda perfeitamente às expectativas dos usuários e clientes.
